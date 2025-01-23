@@ -8,7 +8,7 @@ cd unicorn-busy-server
 # https://github.com/estruyf/unicorn-busy-server/
 # https://github.com/estruyf/unicorn-busy-server/blob/master/install-fallback.sh
 # Install the required dependencies
-apt-get install -y python3-pip python3-dev python3-spidev python3-gpiozero
+apt-get install -y python3-pip python3-dev python3-spidev python3-gpiozero gcc-*
 pip3 install -r ./requirements.txt --break-system-packages
 
 # Create the service
