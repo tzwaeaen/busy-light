@@ -3,7 +3,7 @@
 
 My journey to building a busy light with a Raspberry Pi.
 
-[Full guide in my blog]([https://blog.tzwaeaen.de](https://blog.tzwaeaen.de/diy-busy-light-teams/))
+[Full guide in my blog]([https://blog.tzwaeaen.de](https://blog.tzwaeaen.de/diy-busy-light-teams/)
 
 
 ## Summary
